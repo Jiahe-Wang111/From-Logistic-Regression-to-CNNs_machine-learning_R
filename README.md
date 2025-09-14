@@ -1,5 +1,4 @@
 # From-Logistic-Regression-to-CNNs_machine-learning_R
-# Machine Learning Lab – Salary Prediction & Fashion MNIST
 
 The project has **two main parts**:  
 
